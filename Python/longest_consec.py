@@ -10,7 +10,7 @@ def longest_consec(strarr, k):
 
 
 
-class TestFindShort(unittest.TestCase):
+class TestLongestConsec(unittest.TestCase):
     """Class to test longest_consec function"""
     
     def test_longest_string(self):
