@@ -12,6 +12,12 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [JavaScript](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript) | 0          |
 | [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 7          |
 
+## Difficulty:
+
+The difficulty scale for questions below:
+
+<img src="difficulty.png">
+
 ## List of problems:
 
 ### C#
