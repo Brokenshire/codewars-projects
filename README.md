@@ -2,7 +2,7 @@
 
 Storage of solutions to codewars questions. My profile can be located [here](https://www.codewars.com/users/Brokenshire).
 
-## Problems solved
+## Problems solved:
 
 | Language                                                                              | Kata Count | 
 | ------------------------------------------------------------------------------------- |:----------:|
@@ -12,7 +12,7 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [JavaScript](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript) | 0          |
 | [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 7          |
 
-## List of problems
+## List of problems:
 
 ### C#
 
@@ -24,11 +24,11 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 
 ### Python
 
-#### 6kyu
+#### 6kyu:
 
-[Consecutive strings](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/longest_consec.py)
+* [Consecutive strings](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/longest_consec.py)
 
-#### 7kyu
+#### 7kyu:
 
 * [Two to One](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/two-to-one.py)
 * [Shortest Word](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/find_short.py)
