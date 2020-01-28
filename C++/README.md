@@ -1,2 +1,3 @@
-# codewars-projects
-My solutions to C++ questions.
+# C++ problem solutions
+
+C++ solutions to codewars questions, stored depending on their kata level.

@@ -1,2 +1,3 @@
-# codewars-projects
-My solutions to Java questions.
+# Java problem solutions
+
+Java solutions to codewars questions, stored depending on their kata level.
