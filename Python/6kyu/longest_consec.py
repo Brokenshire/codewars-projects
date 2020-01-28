@@ -1,13 +1,18 @@
+# Python solution for Consecutive strings codewars question.
+# Level: 6 kyu
+# Tags: Fundamentals
+# Author: Jack Brokenshire
+# Date: 24/01/2020
+
 import unittest
 
 
 def longest_consec(strarr, k):
-    """Returns the first longest string consisting of k consecutive strings taken in the array."""
+    """ Returns the first longest string consisting of k consecutive strings taken in the array."""
     if len(strarr) == 0 or k <= 0 or k > len(strarr):
         return ""
     lst = [''.join(strarr[i:i+k]) for i in range(len(strarr))]
-    return max(lst, key= lambda x: len(x))
-
+    return max(lst, key=lambda x: len(x))
 
 
 class TestLongestConsec(unittest.TestCase):

@@ -1,11 +1,19 @@
+# Python solution for Mumbling codewars question.
+# Level: 7 kyu
+# Tags: Fundamentals
+# Author: Jack Brokenshire
+# Date: 24/01/2020
+
 import unittest
 
 
 def accum(s):
-    """The parameter of accum is a string which includes only letters from a..z and A..Z."""
+    """ The parameter of accum is a string which includes only
+        letters from a..z and A..Z.
+    """
     output = ""
     for i in range(len(s)):
-        output+=(s[i]*(i+1))+"-"
+        output += (s[i] * (i+1)) + "-"
     return output.title()[:-1]
 
 

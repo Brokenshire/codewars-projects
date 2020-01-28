@@ -36,9 +36,9 @@ The difficulty scale for questions below:
 
 #### 7kyu:
 
-* [Two to One](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/two-to-one.py)
+* [Two to One](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/longest.py)
 * [Shortest Word](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/find_short.py)
 * [Mumbling](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/accum.py)
-* [Beginner Series #3 Sum of Numbers](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/sum-numbers.py)
+* [Beginner Series #3 Sum of Numbers](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/get_sum.py)
 * [List Filtering](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/filter_list.py)
-* [Most digits](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/most_digits.py)
+* [Most digits](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/find_longest.py)

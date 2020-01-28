@@ -1,7 +1,14 @@
-import unittest 
+# Python solution for Shortest Word codewars question.
+# Level: 7 kyu
+# Tags: Fundamentals
+# Author: Jack Brokenshire
+# Date: 24/01/2020
+
+import unittest
+
 
 def find_short(s):
-    """Given a string of words, return the length of the shortest word(s)."""
+    """ Given a string of words, return the length of the shortest word(s)."""
     return min(len(x) for x in s.split())
 
 
