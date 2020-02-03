@@ -275,4 +275,5 @@ The difficulty scale for questions below:
 
 * 
 
-* Last updated: Monday, 03 February 2020 *
+
+*Last updated: Monday, 03 February 2020*
