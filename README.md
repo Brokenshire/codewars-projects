@@ -20,21 +20,21 @@ The difficulty scale for questions below:
 
 ## List of problems:
 
-### C#
+### [C#](https://github.com/Brokenshire/codewars-projects/tree/master/C%23)  
 
-### C++
+### [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)
 
-### Java
+### [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)
 
-### JavaScript
+### [JavaScript](https://github.com/Brokenshire/codewars-projects/tree/master/JavScript)
 
-### Python
+### [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)
 
-#### 6kyu:
+#### [6kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/6kyu):
 
 * [Consecutive strings](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/longest_consec.py)
 
-#### 7kyu:
+#### [7kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/7kyu):
 
 * [Two to One](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/longest.py)
 * [Shortest Word](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/find_short.py)
