@@ -30,6 +30,42 @@ The difficulty scale for questions below:
 
 ### [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)
 
+#### [4dan](https://github.com/Brokenshire/codewars-projects/tree/master/Python/1kyu):
+
+* 
+
+#### [4kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/4dan):
+
+* 
+
+#### [3dan](https://github.com/Brokenshire/codewars-projects/tree/master/Python/3dan):
+
+* 
+
+#### [2dan](https://github.com/Brokenshire/codewars-projects/tree/master/Python/2dan):
+
+* 
+
+#### [1dan](https://github.com/Brokenshire/codewars-projects/tree/master/Python/1dan):
+
+* 
+
+#### [2kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/2kyu):
+
+* 
+
+#### [3kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/3kyu):
+
+* 
+
+#### [4kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/4kyu):
+
+* 
+
+#### [5kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/5kyu):
+
+* 
+
 #### [6kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/6kyu):
 
 * [Consecutive strings](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/longest_consec.py)
@@ -42,3 +78,7 @@ The difficulty scale for questions below:
 * [Beginner Series #3 Sum of Numbers](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/get_sum.py)
 * [List Filtering](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/filter_list.py)
 * [Most digits](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/find_longest.py)
+
+#### [8kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/8kyu):
+
+* 
