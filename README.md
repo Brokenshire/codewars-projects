@@ -261,6 +261,7 @@ The difficulty scale for questions below:
 ### [6kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/6kyu):
 
 * [Consecutive strings](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/longest_consec.py)
+* [Format a string of names like 'Bart, Lisa & Maggie'.](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/name_list.py)
 
 ### [7kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/7kyu):
 
