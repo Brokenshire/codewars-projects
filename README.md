@@ -10,7 +10,7 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
 | [JavaScript](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript) | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 1    | 6    | 0    |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 1    | 7    | 0    |
 
 # Difficulty:
 
@@ -271,10 +271,11 @@ The difficulty scale for questions below:
 * [Beginner Series #3 Sum of Numbers](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/get_sum.py)
 * [List Filtering](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/filter_list.py)
 * [Most digits](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/find_longest.py)
+* [Gauß needs help! (Sums of a lot of numbers)](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/sum_all.py)
 
 ### [8kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/8kyu):
 
 * 
 
 
-*Last updated: Monday, 03 February 2020*
+*Last updated: Wednesday, 05 February 2020*
