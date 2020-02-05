@@ -10,7 +10,7 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
 | [JavaScript](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript) | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 1    | 8    | 0    |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 3    | 8    | 0    |
 
 # Difficulty:
 
@@ -262,6 +262,7 @@ The difficulty scale for questions below:
 
 * [Consecutive strings](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/longest_consec.py)
 * [Format a string of names like 'Bart, Lisa & Maggie'.](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/name_list.py)
+* [Find the unique number](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/find_uniq.py)
 
 ### [7kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/7kyu):
 
