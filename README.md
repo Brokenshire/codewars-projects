@@ -10,7 +10,7 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
 | [JavaScript](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript) | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 5    | 8    | 0    |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 5    | 9    | 0    |
 
 # Difficulty:
 
@@ -276,6 +276,7 @@ The difficulty scale for questions below:
 * [Most digits](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/find_longest.py)
 * [Gauß needs help! (Sums of a lot of numbers)](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/sum_all.py)
 * [Find the next perfect square!](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/find_next_square.py)
+* [Maximum Multiple](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/max_multiple.py)
 
 ### [8kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/8kyu):
 
