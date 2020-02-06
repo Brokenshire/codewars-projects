@@ -39,7 +39,7 @@ class TestCountSmileys(unittest.TestCase):
         self.assertEqual(count_smileys([]), 0);
         self.assertEqual(count_smileys([':D',':~)',';~D',':)']), 4);
         self.assertEqual(count_smileys([':)',':(',':D',':O',':;']), 2);
-        self.assertEqual((count_smileys([';]', ':[', ';*', ':$', ';-D']), 1);
+        self.assertEqual(count_smileys([';]', ':[', ';*', ':$', ';-D']), 1);
 
 
 if __name__ == '__main__':
