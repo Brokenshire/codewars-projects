@@ -10,7 +10,7 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
 | [JavaScript](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript) | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 2    | 6    | 9    | 2    |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 3    | 6    | 9    | 3    |
 
 # Difficulty:
 
@@ -176,8 +176,9 @@ The difficulty scale for questions below:
 
 ### [5kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/5kyu):
 
-* [Human Readable Time](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/make_readable.py)
-* [Not very secure](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/alphanumeric.py)
+* [Human Readable Time](https://github.com/Brokenshire/codewars-projects/blob/master/Python/5kyu/make_readable.py)
+* [Not very secure](https://github.com/Brokenshire/codewars-projects/blob/master/Python/5kyu/alphanumeric.py)
+* [Calculating with Functions](https://github.com/Brokenshire/codewars-projects/blob/master/Python/5kyu/calc_func.py)
 
 ### [6kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/6kyu):
 
@@ -202,7 +203,8 @@ The difficulty scale for questions below:
 
 ### [8kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/8kyu):
 
-* [Function 1 - hello world](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/greet.py)
-* [No Loops 2 - You only need one](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/check.py)
+* [Function 1 - hello world](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/greet.py)
+* [No Loops 2 - You only need one](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/check.py)
+* [Multiply](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/multiply.py)
 
 *Last updated: Friday, 07 February 2020*
