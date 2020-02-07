@@ -1,5 +1,5 @@
 # Python solution for 'Human Readable Time' codewars question.
-# Level: 6 kyu
+# Level: 5 kyu
 # Tags: Algorithms, Date/Time, Mathematics, and Numbers
 # Author: Jack Brokenshire
 # Date: 07/02/2020
