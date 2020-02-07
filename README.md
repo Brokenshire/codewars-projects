@@ -10,7 +10,7 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
 | [JavaScript](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript) | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 2    | 6    | 9    | 1    |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 2    | 6    | 9    | 2    |
 
 # Difficulty:
 
@@ -203,5 +203,6 @@ The difficulty scale for questions below:
 ### [8kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/8kyu):
 
 * [Function 1 - hello world](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/greet.py)
+* [No Loops 2 - You only need one](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/check.py)
 
 *Last updated: Friday, 07 February 2020*
