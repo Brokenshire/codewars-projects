@@ -22,22 +22,6 @@ The difficulty scale for questions below:
 
 ## [C#](https://github.com/Brokenshire/codewars-projects/tree/master/C%23)  
 
-### [4dan](https://github.com/Brokenshire/codewars-projects/tree/master/C%23/4dan):
-
-* 
-
-### [3dan](https://github.com/Brokenshire/codewars-projects/tree/master/C%23/3dan):
-
-* 
-
-### [2dan](https://github.com/Brokenshire/codewars-projects/tree/master/C%23/2dan):
-
-* 
-
-### [1dan](https://github.com/Brokenshire/codewars-projects/tree/master/C%23/1dan):
-
-* 
-
 ### [1kyu](https://github.com/Brokenshire/codewars-projects/tree/master/C%23/1kyu):
 
 * 
@@ -71,22 +55,6 @@ The difficulty scale for questions below:
 * 
 
 ## [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)
-
-### [4dan](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B/4dan):
-
-* 
-
-### [3dan](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B/3dan):
-
-* 
-
-### [2dan](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B/2dan):
-
-* 
-
-### [1dan](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B/1dan):
-
-* 
 
 ### [1kyu](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B/1kyu):
 
@@ -122,22 +90,6 @@ The difficulty scale for questions below:
 
 ## [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)
 
-### [4dan](https://github.com/Brokenshire/codewars-projects/tree/master/Java/4dan):
-
-* 
-
-### [3dan](https://github.com/Brokenshire/codewars-projects/tree/master/Java/3dan):
-
-* 
-
-### [2dan](https://github.com/Brokenshire/codewars-projects/tree/master/Java/2dan):
-
-* 
-
-### [1dan](https://github.com/Brokenshire/codewars-projects/tree/master/Python/1dan):
-
-* 
-
 ### [1kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Java/1kyu):
 
 * 
@@ -172,22 +124,6 @@ The difficulty scale for questions below:
 
 ## [JavaScript](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript)
 
-### [4dan](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript/4dan):
-
-* 
-
-### [3dan](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript/3dan):
-
-* 
-
-### [2dan](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript/2dan):
-
-* 
-
-### [1dan](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript/1dan):
-
-* 
-
 ### [1kyu](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript/1kyu):
 
 * 
@@ -221,22 +157,6 @@ The difficulty scale for questions below:
 * 
 
 ## [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)
-
-### [4dan](https://github.com/Brokenshire/codewars-projects/tree/master/Python/4dan):
-
-* 
-
-### [3dan](https://github.com/Brokenshire/codewars-projects/tree/master/Python/3dan):
-
-* 
-
-### [2dan](https://github.com/Brokenshire/codewars-projects/tree/master/Python/2dan):
-
-* 
-
-### [1dan](https://github.com/Brokenshire/codewars-projects/tree/master/Python/1dan):
-
-* 
 
 ### [1kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/1kyu):
 
@@ -283,6 +203,5 @@ The difficulty scale for questions below:
 ### [8kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/8kyu):
 
 * 
-
 
 *Last updated: Friday, 07 February 2020*
