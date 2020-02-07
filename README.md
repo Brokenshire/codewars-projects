@@ -10,7 +10,7 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
 | [JavaScript](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript) | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 1    | 6    | 9    | 0    |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 2    | 6    | 9    | 0    |
 
 # Difficulty:
 
@@ -257,6 +257,7 @@ The difficulty scale for questions below:
 ### [5kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/5kyu):
 
 * [Human Readable Time](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/make_readable.py)
+* [Not very secure](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/alphanumeric.py)
 
 ### [6kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/6kyu):
 
