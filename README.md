@@ -10,7 +10,7 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
 | [JavaScript](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript) | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 3    | 6    | 9    | 4    |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 4    | 6    | 9    | 4    |
 
 # Difficulty:
 
@@ -179,6 +179,7 @@ The difficulty scale for questions below:
 * [Human Readable Time](https://github.com/Brokenshire/codewars-projects/blob/master/Python/5kyu/make_readable.py)
 * [Not very secure](https://github.com/Brokenshire/codewars-projects/blob/master/Python/5kyu/alphanumeric.py)
 * [Calculating with Functions](https://github.com/Brokenshire/codewars-projects/blob/master/Python/5kyu/calc_func.py)
+* [Regex Password Validation](https://github.com/Brokenshire/codewars-projects/blob/master/Python/5kyu/regex.py)
 
 ### [6kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/6kyu):
 
@@ -208,4 +209,4 @@ The difficulty scale for questions below:
 * [Multiply](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/multiply.py)
 * [Even or Odd](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/even_or_odd.py)
 
-*Last updated: Saturday, 08 February 2020*
+*Last updated: Sunday, 09 February 2020*
