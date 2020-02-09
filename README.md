@@ -4,13 +4,13 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 
 # Problems solved:
 
-| Language                                                                              | 1kyu | 2kyu | 3kyu | 4kyu | 5kyu | 6kyu | 7kyu | 8kyu | 
-| ------------------------------------------------------------------------------------- |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| [C#](https://github.com/Brokenshire/codewars-projects/tree/master/C%23)               | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
-| [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
-| [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
-| [JavaScript](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript) | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 4    | 6    | 9    | 4    |
+| Language                                                                              | 1kyu | 2kyu | 3kyu | 4kyu | 5kyu | 6kyu | 7kyu  | 8kyu | 
+| ------------------------------------------------------------------------------------- |:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:----:|
+| [C#](https://github.com/Brokenshire/codewars-projects/tree/master/C%23)               | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    |
+| [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    |
+| [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    |
+| [JavaScript](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript) | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 4    | 6    | 10    | 4    |
 
 # Difficulty:
 
@@ -201,6 +201,7 @@ The difficulty scale for questions below:
 * [Gauß needs help! (Sums of a lot of numbers)](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/sum_all.py) | [Codewars](https://www.codewars.com/kata/54df2067ecaa226eca000229)
 * [Find the next perfect square!](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/find_next_square.py) | [Codewars](https://www.codewars.com/kata/56269eb78ad2e4ced1000013)
 * [Maximum Multiple](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/max_multiple.py) | [Codewars](https://www.codewars.com/kata/5aba780a6a176b029800041c)
+* [Vowel Count](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/get_count.py) | [Codewars](https://www.codewars.com/kata/54ff3102c1bad923760001f3/python)
 
 ### [8kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/8kyu):
 
