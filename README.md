@@ -4,13 +4,13 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 
 # Problems solved:
 
-| Language                                                                              | 1kyu | 2kyu | 3kyu | 4kyu | 5kyu | 6kyu | 7kyu  | 8kyu | 
-| ------------------------------------------------------------------------------------- |:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:----:|
-| [C#](https://github.com/Brokenshire/codewars-projects/tree/master/C%23)               | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    |
-| [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    |
-| [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    |
-| [JavaScript](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript) | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 4    | 6    | 11    | 4    |
+| Language                                                                              | 1kyu | 2kyu | 3kyu | 4kyu | 5kyu | 6kyu | 7kyu  | 8kyu | Total | 
+| ------------------------------------------------------------------------------------- |:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:----:|:-----:|
+| [C#](https://github.com/Brokenshire/codewars-projects/tree/master/C%23)               | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    | 0     |
+| [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    | 0     |
+| [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    | 0     |
+| [JavaScript](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript) | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    | 0     |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 4    | 6    | 11    | 4    | 25    |
 
 # Difficulty:
 
