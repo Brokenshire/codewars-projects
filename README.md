@@ -10,7 +10,7 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    | 0     |
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    | 0     |
 | [JavaScript](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript) | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    | 0     |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 4    | 6    | 12    | 4    | 26    |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 4    | 7    | 12    | 4    | 27    |
 
 # Difficulty:
 
@@ -189,6 +189,7 @@ The difficulty scale for questions below:
 * [Dubstep](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/song_decoder.py) | [Codewars](https://www.codewars.com/kata/551dc350bf4e526099000ae5)
 * [Count the smiley faces!](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/count_smileys.py) | [Codewars](https://www.codewars.com/kata/583203e6eb35d7980400002a)
 * [Roman Numerals Encoder](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/roman_num.py) | [Codewars](https://www.codewars.com/kata/51b62bf6a9c58071c600001b)
+* [Persistent Bugger.](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/persistence.py) | [Codewars](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/python)
 
 ### [7kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/7kyu):
 
@@ -212,4 +213,4 @@ The difficulty scale for questions below:
 * [Multiply](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/multiply.py) | [Codewars](https://www.codewars.com/kata/50654ddff44f800200000004)
 * [Even or Odd](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/even_or_odd.py) | [Codewars](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
 
- *Last updated: Monday, 10 February 2020*
+ *Last updated: Tuesday, 11 February 2020*
