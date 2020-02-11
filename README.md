@@ -9,7 +9,6 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [C#](https://github.com/Brokenshire/codewars-projects/tree/master/C%23)               | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    | 0     |
 | [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    | 0     |
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    | 0     |
-| [JavaScript](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript) | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    | 0     |
 | [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 4    | 8    | 12    | 5    | 28    |
 
 # Difficulty:
@@ -119,40 +118,6 @@ The difficulty scale for questions below:
 * 
 
 ### [8kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Java/8kyu):
-
-* 
-
-## [JavaScript](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript)
-
-### [1kyu](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript/1kyu):
-
-* 
-
-### [2kyu](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript/2kyu):
-
-* 
-
-### [3kyu](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript/3kyu):
-
-* 
-
-### [4kyu](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript/4kyu):
-
-* 
-
-### [5kyu](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript/5kyu):
-
-* 
-
-### [6kyu](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript/6kyu):
-
-* 
-
-### [7kyu](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript/7kyu):
-
-* 
-
-### [8kyu](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript/8kyu):
 
 * 
 
