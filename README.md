@@ -155,7 +155,7 @@ The difficulty scale for questions below:
 * [Count the smiley faces!](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/count_smileys.py) | [Codewars](https://www.codewars.com/kata/583203e6eb35d7980400002a)
 * [Roman Numerals Encoder](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/roman_num.py) | [Codewars](https://www.codewars.com/kata/51b62bf6a9c58071c600001b)
 * [Persistent Bugger.](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/persistence.py) | [Codewars](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/python)
-* [Persistent Bugger.](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/persistence.py) | [Codewars](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/python)
+* [Your order, please](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/your_order.py) | [Codewars](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
 
 ### [7kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/7kyu):
 
