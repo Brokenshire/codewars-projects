@@ -10,7 +10,7 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    | 0     |
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    | 0     |
 | [JavaScript](https://github.com/Brokenshire/codewars-projects/tree/master/JavaScript) | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    | 0     |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 4    | 7    | 12    | 4    | 27    |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 4    | 7    | 12    | 5    | 28    |
 
 # Difficulty:
 
@@ -212,5 +212,6 @@ The difficulty scale for questions below:
 * [No Loops 2 - You only need one](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/check.py) | [Codewars](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce)
 * [Multiply](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/multiply.py) | [Codewars](https://www.codewars.com/kata/50654ddff44f800200000004)
 * [Even or Odd](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/even_or_odd.py) | [Codewars](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
+* [Convert number to reversed array of digits](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/digitize.py) | [Codewars](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/python)
 
  *Last updated: Tuesday, 11 February 2020*
