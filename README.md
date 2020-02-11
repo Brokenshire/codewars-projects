@@ -9,7 +9,7 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [C#](https://github.com/Brokenshire/codewars-projects/tree/master/C%23)               | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    | 0     |
 | [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    | 0     |
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    | 0     |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 4    | 8    | 12    | 5    | 28    |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 4    | 8    | 13    | 5    | 29    |
 
 # Difficulty scale:
 
@@ -171,6 +171,7 @@ The difficulty scale for questions below:
 * [Vowel Count](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/get_count.py) | [Codewars](https://www.codewars.com/kata/54ff3102c1bad923760001f3/python)
 * [Get the Middle Character](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/get_middle.py) | [Codewars](https://www.codewars.com/kata/56747fd5cb988479af000028)
 * [Highest and Lowest](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/high_and_low.py) | [Codewars](https://www.codewars.com/kata/554b4ac871d6813a03000035/python)
+* [Square Every Digit](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/square_digits.py) | [Codewars](https://www.codewars.com/kata/546e2562b03326a88e000020/python)
 
 ### [8kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/8kyu):
 
