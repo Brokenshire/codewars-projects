@@ -2,7 +2,7 @@
 
 Storage of solutions to codewars questions. My profile can be located [here](https://www.codewars.com/users/Brokenshire).
 
-# Problems solved:
+# Number of problems solved:
 
 | Language                                                                              | 1kyu | 2kyu | 3kyu | 4kyu | 5kyu | 6kyu | 7kyu  | 8kyu | Total | 
 | ------------------------------------------------------------------------------------- |:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:----:|:-----:|
@@ -11,13 +11,13 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    | 0     |
 | [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 4    | 8    | 12    | 5    | 28    |
 
-# Difficulty:
+# Difficulty scale:
 
 The difficulty scale for questions below:
 
 <img src="difficulty.png">
 
-# List of problems:
+# Index of problems solved:
 
 ## [C#](https://github.com/Brokenshire/codewars-projects/tree/master/C%23)  
 
