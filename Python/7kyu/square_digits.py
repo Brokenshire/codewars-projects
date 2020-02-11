@@ -1,4 +1,4 @@
-# Python solution for 'Square Every Digit' codewars question.
+# Python solution for 'Simple Pig Latin' codewars question.
 # Level: 7 kyu
 # Tags: Fundamentals, Mathematics, Algorithms, and Numbers
 # Author: Jack Brokenshire

@@ -9,7 +9,7 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [C#](https://github.com/Brokenshire/codewars-projects/tree/master/C%23)               | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    | 0     |
 | [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    | 0     |
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    | 0     |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 4    | 8    | 13    | 5    | 29    |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 5    | 8    | 13    | 5    | 30    |
 
 # Difficulty scale:
 
@@ -145,6 +145,7 @@ The difficulty scale for questions below:
 * [Not very secure](https://github.com/Brokenshire/codewars-projects/blob/master/Python/5kyu/alphanumeric.py) | [Codewars](https://www.codewars.com/kata/526dbd6c8c0eb53254000110)
 * [Calculating with Functions](https://github.com/Brokenshire/codewars-projects/blob/master/Python/5kyu/calc_func.py) | [Codewars](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
 * [Regex Password Validation](https://github.com/Brokenshire/codewars-projects/blob/master/Python/5kyu/regex.py) | [Codewars](https://www.codewars.com/kata/52e1476c8147a7547a000811)
+* [Simple Pig Latin](https://github.com/Brokenshire/codewars-projects/blob/master/Python/5kyu/pig_it.py) | [Codewars](https://www.codewars.com/kata/520b9d2ad5c005041100000f/python)
 
 ### [6kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/6kyu):
 
