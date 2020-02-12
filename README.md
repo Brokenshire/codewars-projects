@@ -137,7 +137,7 @@ The difficulty scale for questions below:
 
 ### [4kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/4kyu):
 
-* 
+* [parseInt() reloaded](https://github.com/Brokenshire/codewars-projects/blob/master/Python/5kyu/parse_int.py) | [Codewars](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5/python)
 
 ### [5kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/5kyu):
 
