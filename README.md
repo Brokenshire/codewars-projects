@@ -9,7 +9,7 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [C#](https://github.com/Brokenshire/codewars-projects/tree/master/C%23)               | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    | 0     |
 | [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    | 0     |
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0    | 0     | 0    | 0     |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 5    | 8    | 13    | 6    | 31    |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 5    | 9    | 13    | 6    | 32    |
 
 # Difficulty scale:
 
@@ -157,6 +157,7 @@ The difficulty scale for questions below:
 * [Roman Numerals Encoder](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/roman_num.py) | [Codewars](https://www.codewars.com/kata/51b62bf6a9c58071c600001b)
 * [Persistent Bugger.](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/persistence.py) | [Codewars](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/python)
 * [Your order, please](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/your_order.py) | [Codewars](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
+* [Create Phone Number](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/create_phone_number.py) | [Codewars](https://www.codewars.com/kata/525f50e3b73515a6db000b83/python)
 
 ### [7kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/7kyu):
 
