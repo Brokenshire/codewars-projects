@@ -9,7 +9,7 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [C#](https://github.com/Brokenshire/codewars-projects/tree/master/C%23)               | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0    | 0     |
 | [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0    | 0     |
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0    | 0     |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 5    | 11    | 13    | 7    | 36    |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 5    | 12    | 13    | 7    | 37    |
 
 # Difficulty scale:
 
@@ -160,6 +160,7 @@ The difficulty scale for questions below:
 * [Create Phone Number](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/create_phone_number.py) | [Codewars](https://www.codewars.com/kata/525f50e3b73515a6db000b83/python)
 * [Stop gninnipS My sdroW!](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/spin_words.py) | [Codewars](https://www.codewars.com/kata/5264d2b162488dc400000001/python)
 * [Multiples of 3 or 5](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/multiples35.py) | [Codewars](https://www.codewars.com/kata/514b92a657cdc65150000006/python)
+* [Sum of Digits / Digital Root](https://github.com/Brokenshire/codewars-projects/blob/master/Python/6kyu/digital_root.py) | [Codewars](https://www.codewars.com/kata/541c8630095125aba6000c00/python)
 
 ### [7kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/7kyu):
 
