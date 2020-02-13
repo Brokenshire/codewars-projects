@@ -188,4 +188,4 @@ The difficulty scale for questions below:
 * [Remove First and Last Character](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/remove_char.py) | [Codewars](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/python)
 * [Sum of positive](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/positive_sum.py) | [Codewars](https://www.codewars.com/kata/5715eaedb436cf5606000381/python)
 
- *Last updated: Wednesday, 12 February 2020*
+ *Last updated: Thursday, 13 February 2020*
