@@ -9,7 +9,7 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [C#](https://github.com/Brokenshire/codewars-projects/tree/master/C%23)               | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0    | 0     |
 | [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0    | 0     |
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0    | 0     |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 0    | 5    | 13    | 13    | 7    | 38    |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 2    | 5    | 13    | 13    | 7    | 39    |
 
 # Difficulty scale:
 
@@ -138,6 +138,7 @@ The difficulty scale for questions below:
 ### [4kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/4kyu):
 
 * [parseInt() reloaded](https://github.com/Brokenshire/codewars-projects/blob/master/Python/5kyu/parse_int.py) | [Codewars](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5/python)
+* [Sum of Intervals](https://github.com/Brokenshire/codewars-projects/blob/master/Python/5kyu/sum_of_intervals.py) | [Codewars](https://www.codewars.com/kata/52b7ed099cdc285c300001cd/python)
 
 ### [5kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/5kyu):
 
