@@ -1,6 +1,6 @@
 # Python solution for 'Exes and Ohs' codewars question.
 # Level: 7 kyu
-# Tags: Algorithms, Aggregations, Arithmetic, Mathematics, Numbers, and Integers.
+# Tags: Fundamentals.
 # Author: Jack Brokenshire
 # Date: 15/02/2020
 
