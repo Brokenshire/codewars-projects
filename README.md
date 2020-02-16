@@ -9,7 +9,7 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [C#](https://github.com/Brokenshire/codewars-projects/tree/master/C%23)               | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0    | 0     |
 | [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0    | 0     |
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0    | 0     |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 2    | 5    | 13    | 15    | 7    | 41    |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 2    | 5    | 13    | 16    | 7    | 42    |
 
 # Difficulty scale:
 
@@ -181,6 +181,7 @@ The difficulty scale for questions below:
 * [Square Every Digit](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/square_digits.py) | [Codewars](https://www.codewars.com/kata/546e2562b03326a88e000020/python)
 * [Exes and Ohs](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/xo.py) | [Codewars](https://www.codewars.com/kata/55908aad6620c066bc00002a/python)
 * [Odd or Even?](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/odd_or_even.py) | [Codewars](https://www.codewars.com/kata/5949481f86420f59480000e7/python)
+* [Disemvowel Trolls](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/disemvowel.py) | [Codewars](https://www.codewars.com/kata/52fba66badcd10859f00097e/python)
 
 ### [8kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/8kyu):
 
