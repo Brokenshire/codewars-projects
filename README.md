@@ -9,7 +9,7 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [C#](https://github.com/Brokenshire/codewars-projects/tree/master/C%23)               | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0    | 0     |
 | [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0    | 0     |
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0    | 0     |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 2    | 5    | 13    | 17    | 7    | 43    |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 2    | 5    | 13    | 18    | 7    | 44    |
 
 # Difficulty scale:
 
@@ -183,6 +183,7 @@ The difficulty scale for questions below:
 * [Odd or Even?](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/odd_or_even.py) | [Codewars](https://www.codewars.com/kata/5949481f86420f59480000e7/python)
 * [Disemvowel Trolls](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/disemvowel.py) | [Codewars](https://www.codewars.com/kata/52fba66badcd10859f00097e/python)
 * [Jaden Casing Strings](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/to_jaden_case.py) | [Codewars](https://www.codewars.com/kata/5390bac347d09b7da40006f6/python)
+* [Categorize New Member](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/open_or_senior.py) | [Codewars](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/python)
 
 ### [8kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/8kyu):
 
@@ -194,4 +195,4 @@ The difficulty scale for questions below:
 * [Remove First and Last Character](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/remove_char.py) | [Codewars](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/python)
 * [Sum of positive](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/positive_sum.py) | [Codewars](https://www.codewars.com/kata/5715eaedb436cf5606000381/python)
 
- *Last updated: Thursday, 13 February 2020*
+ *Last updated: Tuesday, 18 February 2020*
