@@ -9,7 +9,7 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [C#](https://github.com/Brokenshire/codewars-projects/tree/master/C%23)               | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0    | 0     |
 | [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0    | 0     |
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0    | 0     |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 2    | 5    | 14    | 18    | 8    | 46    |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 2    | 5    | 14    | 18    | 9    | 47    |
 
 # Difficulty scale:
 
@@ -196,5 +196,6 @@ The difficulty scale for questions below:
 * [Remove First and Last Character](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/remove_char.py) | [Codewars](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/python)
 * [Sum of positive](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/positive_sum.py) | [Codewars](https://www.codewars.com/kata/5715eaedb436cf5606000381/python)
 * [Remove String Spaces](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/no_space.py) | [Codewars](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/python)
+* [Opposite number](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/opposite.py) | [Codewars](https://www.codewars.com/kata/56dec885c54a926dcd001095/python)
 
- *Last updated: Thursday, 20 February 2020*
+ *Last updated: Friday, 21 February 2020*
