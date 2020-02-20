@@ -9,7 +9,7 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [C#](https://github.com/Brokenshire/codewars-projects/tree/master/C%23)               | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0    | 0     |
 | [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0    | 0     |
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0    | 0     |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 2    | 5    | 14    | 18    | 7    | 45    |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 2    | 5    | 14    | 18    | 8    | 46    |
 
 # Difficulty scale:
 
@@ -195,5 +195,6 @@ The difficulty scale for questions below:
 * [Convert number to reversed array of digits](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/digitize.py) | [Codewars](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/python)
 * [Remove First and Last Character](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/remove_char.py) | [Codewars](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/python)
 * [Sum of positive](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/positive_sum.py) | [Codewars](https://www.codewars.com/kata/5715eaedb436cf5606000381/python)
+* [Remove String Spaces](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/no_space.py) | [Codewars](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/python)
 
- *Last updated: Tuesday, 18 February 2020*
+ *Last updated: Thursday, 20 February 2020*
