@@ -4,12 +4,12 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 
 # Number of problems solved:
 
-| Language                                                                              | 1kyu | 2kyu | 3kyu | 4kyu | 5kyu | 6kyu  | 7kyu  | 8kyu | Total | 
-| ------------------------------------------------------------------------------------- |:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:----:|:-----:|
-| [C#](https://github.com/Brokenshire/codewars-projects/tree/master/C%23)               | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0    | 0     |
-| [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0    | 0     |
-| [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0    | 0     |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 2    | 5    | 14    | 19    | 9    | 48    |
+| Language                                                                              | 1kyu | 2kyu | 3kyu | 4kyu | 5kyu | 6kyu  | 7kyu  | 8kyu  | Total | 
+| ------------------------------------------------------------------------------------- |:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|
+| [C#](https://github.com/Brokenshire/codewars-projects/tree/master/C%23)               | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0     | 0     |
+| [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0     | 0     |
+| [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0     | 0     |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 2    | 5    | 14    | 19    | 10    | 49    |
 
 # Difficulty scale:
 
@@ -198,5 +198,6 @@ The difficulty scale for questions below:
 * [Sum of positive](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/positive_sum.py) | [Codewars](https://www.codewars.com/kata/5715eaedb436cf5606000381/python)
 * [Remove String Spaces](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/no_space.py) | [Codewars](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/python)
 * [Opposite number](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/opposite.py) | [Codewars](https://www.codewars.com/kata/56dec885c54a926dcd001095/python)
+* [Find the first non-consecutive number](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/first_non_consecutive.py) | [Codewars](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144)
 
- *Last updated: Saturday, 22 February 2020*
+ *Last updated: Thursday, 27 February 2020*
