@@ -9,7 +9,7 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [C#](https://github.com/Brokenshire/codewars-projects/tree/master/C%23)               | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0     | 0     |
 | [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0     | 0     |
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0     | 0     |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 2    | 5    | 14    | 19    | 11    | 50    |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 2    | 5    | 14    | 20    | 11    | 51    |
 
 # Difficulty scale:
 
@@ -186,6 +186,7 @@ The difficulty scale for questions below:
 * [Jaden Casing Strings](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/to_jaden_case.py) | [Codewars](https://www.codewars.com/kata/5390bac347d09b7da40006f6/python)
 * [Categorize New Member](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/open_or_senior.py) | [Codewars](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/python)
 * [Testing 1-2-3](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/testing_123.py) | [Codewars](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9/python)
+* [Sum of Minimums!](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/sum_of_minimums.py) | [Codewars](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699/python)
 
 ### [8kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/8kyu):
 
