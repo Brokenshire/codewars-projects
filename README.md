@@ -9,7 +9,7 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [C#](https://github.com/Brokenshire/codewars-projects/tree/master/C%23)               | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0     | 0     |
 | [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0     | 0     |
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0     | 0     |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 2    | 5    | 14    | 21    | 11    | 52    |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 2    | 5    | 14    | 21    | 12    | 53    |
 
 # Difficulty scale:
 
@@ -202,5 +202,6 @@ The difficulty scale for questions below:
 * [Opposite number](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/opposite.py) | [Codewars](https://www.codewars.com/kata/56dec885c54a926dcd001095/python)
 * [Find the first non-consecutive number](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/first_non_consecutive.py) | [Codewars](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144)
 * [Beginner Series #2 Clock](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/past.py) | [Codewars](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/python)
+* [Will you make it?](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/zero_fuel.py) | [Codewars](https://www.codewars.com/kata/5861d28f124b35723e00005e/python)
 
- *Last updated: Friday, 28 February 2020*
+ *Last updated: Monday, 02 March 2020*
