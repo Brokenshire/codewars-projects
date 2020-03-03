@@ -9,7 +9,7 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [C#](https://github.com/Brokenshire/codewars-projects/tree/master/C%23)               | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0     | 0     |
 | [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0     | 0     |
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0     | 0     |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 2    | 5    | 14    | 21    | 12    | 53    |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 2    | 5    | 14    | 22    | 12    | 54    |
 
 # Difficulty scale:
 
@@ -188,6 +188,7 @@ The difficulty scale for questions below:
 * [Testing 1-2-3](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/testing_123.py) | [Codewars](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9/python)
 * [Sum of Minimums!](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/sum_of_minimums.py) | [Codewars](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699/python)
 * [Two Oldest Ages](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/two_oldest_ages.py) | [Codewars](https://www.codewars.com/kata/511f11d355fe575d2c000001/python)
+* [Descending Order](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/descending_order.py) | [Codewars](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/python)
 
 ### [8kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/8kyu):
 
