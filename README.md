@@ -9,7 +9,7 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [C#](https://github.com/Brokenshire/codewars-projects/tree/master/C%23)               | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0     | 0     |
 | [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0     | 0     |
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0     | 0     |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 2    | 5    | 14    | 24    | 12    | 56    |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 2    | 5    | 14    | 25    | 12    | 57    |
 
 # Difficulty scale:
 
@@ -191,6 +191,7 @@ The difficulty scale for questions below:
 * [Descending Order](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/descending_order.py) | [Codewars](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/python)
 * [You're a square!](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/is_square.py) | [Codewars](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/python)
 * [Isograms](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/is_isogram.py) | [Codewars](https://www.codewars.com/kata/54ba84be607a92aa900000f1/python)
+* [Sum of two lowest positive integers](https://github.com/Brokenshire/codewars-projects/blob/master/Python/7kyu/sum_two_smallest_numbers.py) | [Codewars](https://www.codewars.com/kata/558fc85d8fd1938afb000014/python)
 
 ### [8kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/8kyu):
 
@@ -207,4 +208,4 @@ The difficulty scale for questions below:
 * [Beginner Series #2 Clock](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/past.py) | [Codewars](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/python)
 * [Will you make it?](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/zero_fuel.py) | [Codewars](https://www.codewars.com/kata/5861d28f124b35723e00005e/python)
 
- *Last updated: Thursday, 05 March 2020*
+ *Last updated: Friday, 06 March 2020*
