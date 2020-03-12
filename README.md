@@ -9,7 +9,7 @@ Storage of solutions to codewars questions. My profile can be located [here](htt
 | [C#](https://github.com/Brokenshire/codewars-projects/tree/master/C%23)               | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0     | 0     |
 | [C++](https://github.com/Brokenshire/codewars-projects/tree/master/C%2B%2B)           | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0     | 0     |
 | [Java](https://github.com/Brokenshire/codewars-projects/tree/master/Java)             | 0    | 0    | 0    | 0    | 0    | 0     | 0     | 0     | 0     |
-| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 2    | 5    | 20    | 25    | 12    | 63    |
+| [Python](https://github.com/Brokenshire/codewars-projects/tree/master/Python)         | 0    | 0    | 0    | 3    | 5    | 20    | 25    | 12    | 64    |
 
 # Difficulty scale:
 
@@ -137,8 +137,9 @@ The difficulty scale for questions below:
 
 ### [4kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/4kyu):
 
-* [parseInt() reloaded](https://github.com/Brokenshire/codewars-projects/blob/master/Python/5kyu/parse_int.py) | [Codewars](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5/python)
-* [Sum of Intervals](https://github.com/Brokenshire/codewars-projects/blob/master/Python/5kyu/sum_of_intervals.py) | [Codewars](https://www.codewars.com/kata/52b7ed099cdc285c300001cd/python)
+* [parseInt() reloaded](https://github.com/Brokenshire/codewars-projects/blob/master/Python/4kyu/parse_int.py) | [Codewars](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5/python)
+* [Sum of Intervals](https://github.com/Brokenshire/codewars-projects/blob/master/Python/4kyu/sum_of_intervals.py) | [Codewars](https://www.codewars.com/kata/52b7ed099cdc285c300001cd/python)
+* [Strip Comments](https://github.com/Brokenshire/codewars-projects/blob/master/Python/4kyu/strip_comments.py) | [Codewars](https://www.codewars.com/kata/51c8e37cee245da6b40000bd/python)
 
 ### [5kyu](https://github.com/Brokenshire/codewars-projects/tree/master/Python/5kyu):
 
@@ -214,4 +215,4 @@ The difficulty scale for questions below:
 * [Beginner Series #2 Clock](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/past.py) | [Codewars](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/python)
 * [Will you make it?](https://github.com/Brokenshire/codewars-projects/blob/master/Python/8kyu/zero_fuel.py) | [Codewars](https://www.codewars.com/kata/5861d28f124b35723e00005e/python)
 
- *Last updated: Thursday, 12 March 2020*
+ *Last updated: Friday, 13 March 2020*
