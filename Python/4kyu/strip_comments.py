@@ -1,4 +1,4 @@
-# Python strip_comments for 'Strip Comments' codewars question.
+# Python solution for 'Strip Comments' codewars question.
 # Level: 4 kyu
 # Tags: Algorithms and Strings.
 # Author: Jack Brokenshire
