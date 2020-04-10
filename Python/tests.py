@@ -8,5 +8,7 @@ from seven_kyu import *
 from eight_kyu import *
 import unittest
 
-suite = unittest.TestLoader().loadTestsFromModule(seven_kyu)
-unittest.TextTestRunner(verbosity=2).run(suite)
+if __name__ == "__main__":
+    # unittest.main()
+    test_suite = unittest.TestLoader().discover('.')
+    unittest.TextTestRunner(verbosity=1).run(test_suite)
