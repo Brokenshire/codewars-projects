@@ -14,7 +14,7 @@ def end_with(string, ending):
     :param ending: the ending string.
     :return: True if the last characters of string are the same as ending otherwise, False.
     """
-    return string[len(string)-len(ending): len(string)] == ending
+    return string.endswith(ending)
 
 
 class TestEndWith(unittest.TestCase):
