@@ -24,9 +24,9 @@ class TestTwoSum(unittest.TestCase):
     """Class to test 'two_sum' function"""
 
     def test_two_sum(self):
-        self.assertEqual(sorted(two_sum([1,2,3], 4)), [0,2])
-        self.assertEqual(sorted(two_sum([1234,5678,9012], 14690)), [1,2])
-        self.assertEqual(sorted(two_sum([2,2,3], 4)), [0,1])
+        self.assertEqual(sorted(two_sum([1, 2, 3], 4)), [0, 2])
+        self.assertEqual(sorted(two_sum([1234, 5678, 9012], 14690)), [1, 2])
+        self.assertEqual(sorted(two_sum([2, 2, 3], 4)), [0, 1])
 
 
 if __name__ == '__main__':
