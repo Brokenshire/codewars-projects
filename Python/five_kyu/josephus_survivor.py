@@ -24,11 +24,11 @@ class TestJosephusSurvivor(unittest.TestCase):
     """Class to test 'josephus_survivor' function"""
 
     def test_josephus_survivor(self):
-        self.assertEqual(josephus_survivor(7,3),4)
-        self.assertEqual(josephus_survivor(11,19),10)
-        self.assertEqual(josephus_survivor(1,300),1)
-        self.assertEqual(josephus_survivor(14,2),13)
-        self.assertEqual(josephus_survivor(100,1),100)
+        self.assertEqual(josephus_survivor(7, 3), 4)
+        self.assertEqual(josephus_survivor(11, 19), 10)
+        self.assertEqual(josephus_survivor(1, 300), 1)
+        self.assertEqual(josephus_survivor(14, 2), 13)
+        self.assertEqual(josephus_survivor(100, 1), 100)
 
 
 if __name__ == '__main__':
