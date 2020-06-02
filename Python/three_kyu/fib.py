@@ -39,6 +39,8 @@ def fib(n, negative=None):
         return 0
     if negative and n % 2 == 0:
         return - matrix_power([[1, 1], [1, 0]], abs(n))[0][1]
+    else:
+        return matrix_power([[1, 1], [1, 0]], abs(n))[0][1]
 
 
 class TestFib(unittest.TestCase):
