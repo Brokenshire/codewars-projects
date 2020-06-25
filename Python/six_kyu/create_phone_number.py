@@ -4,6 +4,7 @@
 #       Regular Expressions, Declarative Programming, and Advanced Language Features.
 # Author: Jack Brokenshire
 # Date: 12/02/2020
+# Date_v2: 25/06/2020
 
 import unittest
 
@@ -19,10 +20,26 @@ def create_phone_number(n):
     return "({}) {}-{}".format("".join(map(str, n[0:3])), "".join(map(str, n[3:6])), "".join(map(str, n[6:])))
 
 
+def create_phone_number_v2(n):
+    """
+    Turns an array of integers into phone number form.
+    :param n: an array of integers.
+    :return: numbers in phone number form.
+    """
+    return "({}{}{}) {}{}{}-{}{}{}{}".format(*n)
+
+
 class TestCreatePhoneNumber(unittest.TestCase):
     """Class to test 'create_phone_number' function"""
 
     def test_create_phone_number(self):
+        self.assertEqual(create_phone_number([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]), "(123) 456-7890")
+        self.assertEqual(create_phone_number([1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), "(111) 111-1111")
+        self.assertEqual(create_phone_number([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]), "(123) 456-7890")
+        self.assertEqual(create_phone_number([0, 2, 3, 0, 5, 6, 0, 8, 9, 0]), "(023) 056-0890")
+        self.assertEqual(create_phone_number([0, 0, 0, 0, 0, 0, 0, 0, 0, 0]), "(000) 000-0000")
+
+    def test_create_phone_number_v2(self):
         self.assertEqual(create_phone_number([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]), "(123) 456-7890")
         self.assertEqual(create_phone_number([1, 1, 1, 1, 1, 1, 1, 1, 1, 1]), "(111) 111-1111")
         self.assertEqual(create_phone_number([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]), "(123) 456-7890")
