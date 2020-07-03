@@ -11,7 +11,7 @@ def divisors(n):
     """
     Count the number of divisors of a positive integer n.
     :param n: an integer input.
-    :return: the number of divisors of an integer.
+    :return: the number of divisors of an integer.count_sheeps
     """
     return sum(1 for x in range(1, n + 1) if n % x == 0)
 
