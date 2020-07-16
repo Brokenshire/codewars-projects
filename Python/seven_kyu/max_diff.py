@@ -22,11 +22,11 @@ class TestMaxDiff(unittest.TestCase):
     """Class to test 'max_diff' function"""
 
     def test_max_diff(self):
-        self.asserEqual(max_diff([0, 1, 2, 3, 4, 5, 6]), 6)
-        self.asserEqual(max_diff([-0, 1, 2, -3, 4, 5, -6]), 11)
-        self.asserEqual(max_diff([0, 1, 2, 3, 4, 5, 16]), 16)
-        self.asserEqual(max_diff([16]), 0)
-        self.asserEqual(max_diff([]), 0)
+        self.assertEqual(max_diff([0, 1, 2, 3, 4, 5, 6]), 6)
+        self.assertEqual(max_diff([-0, 1, 2, -3, 4, 5, -6]), 11)
+        self.assertEqual(max_diff([0, 1, 2, 3, 4, 5, 16]), 16)
+        self.assertEqual(max_diff([16]), 0)
+        self.assertEqual(max_diff([]), 0)
 
 
 if __name__ == '__main__':
