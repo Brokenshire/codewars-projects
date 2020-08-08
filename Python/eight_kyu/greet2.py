@@ -8,10 +8,10 @@ import unittest
 
 
 def greet(name):
-    """ Make a function that will return a greeting statement that uses an input.
+    """Make a function that will return a greeting statement that uses an input.
 
     Args:
-        name (str): a persons name.
+        name (str): A persons name.
 
     Returns:
         str: "Hello, <name> how are you doing today?".
